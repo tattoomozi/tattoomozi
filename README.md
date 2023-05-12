@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @itsmozable
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in learning programming/coding for a new career path
+- 🌱 I’m currently learning JS,CSS,React,Node.js,Next.js,
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-tattoomozi/tattoomozi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me Twitter,Mail or Pidgeon
