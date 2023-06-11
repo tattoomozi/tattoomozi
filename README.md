@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itsmozable
 - 👀 I’m interested in learning programming/coding for a new career path
-- 🌱 I’m currently learning JS,CSS,React,Node.js,Next.js,
+- 🌱 I’m currently learning a little bit from everything
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Twitter,Mail or Pidgeon
