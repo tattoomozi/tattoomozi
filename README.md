@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [an Lost and Found App](https://github.com/tattoomozi/lost-and-found-final)
 
-- 🌱 I’m currently learning **React Native, React, NextJs, TypeScript**
+- 🌱 I’m currently learning **React Native, React, NextJs, TypeScript, Swift**
 
 - 👯 I’m looking to collaborate on **new and existing projects**
 
